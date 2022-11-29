@@ -1,0 +1,12 @@
+{
+  "name": "debugging-workshop",
+  "version": "1.0.0",
+  "description": "SSD Debugging Workshop - Fall 2022",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": ""
+  },
+  "author": "Saul Goodman",
+  "license": "ISC"
+}
